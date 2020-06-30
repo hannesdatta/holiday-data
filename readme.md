@@ -1,6 +1,6 @@
 # Extracting holiday data from the holidayapi
 
-Data source: holidayapi.com (commercial API key required)
+Data source: [holidayapi.com](https://holidayapi.com) (commercial API key required)
 
 ## Installation
 
